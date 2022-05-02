@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 Olá meu nome é Diego Caires Reynaldo.
-=======
-Olá meu nome é Diego.
 Olá eu sou uma nova linha.
 >>>>>>> 1eaca51c3b8cc18c4a8ba97d369b4fcb357eac52
